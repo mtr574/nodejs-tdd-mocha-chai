@@ -1,6 +1,9 @@
 # NodeJS TDD with Mocha & Chai
 
 ## Usage
+
+You should have mocha installed globally `npm i -g mocha'
+
 `npm test` will run Mocha with Chai to test each file in `test` folder.
 
 ## Resources
