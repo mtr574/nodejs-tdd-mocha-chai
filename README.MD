@@ -1,10 +1,15 @@
 # NodeJS TDD with Mocha & Chai
 
+NodeJS Test-Driven-Development project using Mocha, Chai and more.
+
 ## Usage
 
-You should have mocha installed globally `npm i -g mocha'
-
-`npm test` will run Mocha with Chai to test each file in `test` folder.
+1. Install Mocha globally `npm i -g mocha`
+2. Other dependencies `npm i`
+3. Write some tests
+4. `npm test`
+5. Write a code to pass the tests
+6. Repeat
 
 ## Resources
 The toturial im using here, all code cenverted to ES6
